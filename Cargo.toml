@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["Yoandy Rodriguez Martinez <yoandy.rmartinez@gmail.com>"]
 edition = "2018"
 description = "An async async version of rust-pop3"
+homepage = "https://github.com/yorodm/async-pop3"
+repository ="https://github.com/yorodm/async-pop3"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
