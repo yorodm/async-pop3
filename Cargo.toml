@@ -1,0 +1,14 @@
+[package]
+name = "async-pop3"
+version = "0.1.0"
+authors = ["Yoandy Rodriguez Martinez <yoandy.rmartinez@gmail.com>"]
+edition = "2018"
+description = "An async async version of rust-pop3"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+async-native-tls = "0.3.3"
+async-std = "1.6.3"
+lazy_static = "1.4.0"
+regex = "0.2.11"
